@@ -1,0 +1,2 @@
+<h2>Duck</h2>  
+  <p><img src="duck.jpg"></p>
